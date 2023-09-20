@@ -1,10 +1,12 @@
-<img width="402" alt="image" src="https://github.com/wonny1012/jiwonkwon/assets/102846055/62f09464-1bfe-42aa-ab5c-cb5f1e6eefbd"><div align="center">
+<div align="center">
   
   Hello! I'm JiWon 👋
   ---
-<img src = "![result_image](https://github.com/wonny1012/jiwonkwon/assets/102846055/ebfb5bfc-ff34-4861-93c5-e1fb1670be0b)" width="160" height = "160"> 
+<img width="200" alt="스크린샷 2023-09-20 오후 3 13 41" src="https://github.com/wonny1012/jiwonkwon/assets/102846055/703f3fab-7d20-4bd0-b097-3f32ee519f18">
 
-<h2>Infinite Power iOS Developer</h2> 
+
+ **Infinite Power iOS Developer**
+ 
  *끊임 없이 배우고 성장하여 오늘보다 내일이 더 기대되는 개발자*
 </div>
 <div align=center><h2>STACKS</h2>
