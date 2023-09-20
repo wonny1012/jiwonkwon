@@ -65,7 +65,7 @@ Apple Developer Academy @ POSTECH   | 2022-03    | 2022-12    |
 
 ## **Projects**
 
-<div align="center">
+
 
 Project Name                             | Description | Role |          
 ------------------------------------|------------|------------|
@@ -73,7 +73,6 @@ Project Name                             | Description | Role |
 <img width=100 height=100 src="https://github.com/wonny1012/jiwonkwon/assets/102846055/e86150b9-0f25-4250-a6ca-9ddd80763481"> <br> [Pic Pick Word](https://delirious-antler-185.notion.site/Pic-Pick-Word-f28c4f15c0474b10b9b4ae9886f81119?pvs=4) | 그림을 통해 재미있게 영어 단어를 공부하는 앱    | PM,  iOSDeveloper,Deginer   |
 
 
-</div>
 
 ### Other Project
 
