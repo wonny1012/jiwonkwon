@@ -1,4 +1,4 @@
-<div align="center">
+<img width="402" alt="image" src="https://github.com/wonny1012/jiwonkwon/assets/102846055/62f09464-1bfe-42aa-ab5c-cb5f1e6eefbd"><div align="center">
   
   Hello! I'm JiWon 👋
   ---
@@ -43,17 +43,23 @@ Apple Developer Academy @ POSTECH   | 2022-03    | 2022-12    |
 *“Pic Pick! Words!”*
 
 - 그림을 보며 어떤 문장과 단어들이 사용되었는지 유추하는 단어 학습 앱
+<br>
+
 
 **2022 KU 메디컬 헤커톤 최우수상**
 
 *“소아사시 진단 서비스”*
 
 - 앱으로 간단히 사시를 측정 하는 앱 기획
+<br>
+  
 **WWDC 2022  Student challenge winner**
 
 *“Zoochestra”*
 
 - 동물을 통해 오케스트라 악기의 소리와 특징을 설명해주는 교육 앱
+<br>
+
 
 ### Project
 
