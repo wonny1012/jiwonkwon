@@ -63,11 +63,17 @@ Apple Developer Academy @ POSTECH   | 2022-03    | 2022-12    |
 <br>
 
 
-### Project
+## **Projects**
 
----
+<div align="center">
 
-[Project](https://www.notion.so/e80e9583d84f40769c9518bfeeb8c005?pvs=21)
+Project Name                             | Description | Role |          
+------------------------------------|------------|------------|
+<img width=100 height=100 src="![image](https://github.com/wonny1012/jiwonkwon/assets/102846055/b6a7d86a-5ec1-4894-93aa-a03af6b525d5)"><br> [EyeKu](https://delirious-antler-185.notion.site/EyeKu-c775bf9eec36445e9dcecbe900a4cdd7?pvs=4)  | 가정에서 간편하게 사시각을 확인하는 앱    | PM,  iOSDeveloper    | 
+<img width=100 height=100 src="![image](https://github.com/wonny1012/jiwonkwon/assets/102846055/e86150b9-0f25-4250-a6ca-9ddd80763481)"> <br> [Pic Pick Word](https://delirious-antler-185.notion.site/Pic-Pick-Word-f28c4f15c0474b10b9b4ae9886f81119?pvs=4) | 그림을 통해 재미있게 영어 단어를 공부하는 앱    | PM,  iOSDeveloper,Deginer   |
+
+
+</div>
 
 ### Other Project
 
